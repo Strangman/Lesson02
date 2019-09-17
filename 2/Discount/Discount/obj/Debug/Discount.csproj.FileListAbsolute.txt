@@ -1,0 +1,7 @@
+C:\Games\Programming\Bush\1\2\Discount\Discount\bin\Debug\Discount.exe.config
+C:\Games\Programming\Bush\1\2\Discount\Discount\bin\Debug\Discount.exe
+C:\Games\Programming\Bush\1\2\Discount\Discount\bin\Debug\Discount.pdb
+C:\Games\Programming\Bush\1\2\Discount\Discount\obj\Debug\Discount.csprojAssemblyReference.cache
+C:\Games\Programming\Bush\1\2\Discount\Discount\obj\Debug\Discount.csproj.CoreCompileInputs.cache
+C:\Games\Programming\Bush\1\2\Discount\Discount\obj\Debug\Discount.exe
+C:\Games\Programming\Bush\1\2\Discount\Discount\obj\Debug\Discount.pdb

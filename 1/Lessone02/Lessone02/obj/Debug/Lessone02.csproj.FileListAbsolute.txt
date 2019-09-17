@@ -1,0 +1,7 @@
+C:\Games\Programming\Bush\1\1\Lessone02\Lessone02\bin\Debug\Lessone02.exe.config
+C:\Games\Programming\Bush\1\1\Lessone02\Lessone02\bin\Debug\Lessone02.exe
+C:\Games\Programming\Bush\1\1\Lessone02\Lessone02\bin\Debug\Lessone02.pdb
+C:\Games\Programming\Bush\1\1\Lessone02\Lessone02\obj\Debug\Lessone02.csprojAssemblyReference.cache
+C:\Games\Programming\Bush\1\1\Lessone02\Lessone02\obj\Debug\Lessone02.csproj.CoreCompileInputs.cache
+C:\Games\Programming\Bush\1\1\Lessone02\Lessone02\obj\Debug\Lessone02.exe
+C:\Games\Programming\Bush\1\1\Lessone02\Lessone02\obj\Debug\Lessone02.pdb
