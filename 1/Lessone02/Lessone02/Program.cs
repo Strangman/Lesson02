@@ -10,31 +10,33 @@ namespace Lessone02
     {
         static void Main(string[] args)
         {
-            int beer = 6;
+            int beer = 20;
+            string take;
             if (beer >= 60)
             {
-                Console.WriteLine("Leffe");
+                take = "Leffe";
             }
             else if (60 > beer & beer >= 45)
             {
-                Console.WriteLine("Bud");
+                take = "Bud";
             }
             else if (45 > beer & beer >= 30)
             {
-                Console.WriteLine("Stella Artois");
+                take = "Stella Artois";
             }
             else if (30 > beer & beer >= 20)
             {
-                Console.WriteLine("Chernigivske");
+                take = "Chernigivske";
             }
             else if (20 > beer & beer >= 7)
             {
-                Console.WriteLine("Obolon");
+                take = "Obolon";
             }
             else
             {
-                Console.WriteLine("Just water)");
+                take = "Just water";
             }
+            Console.WriteLine(take);
             Console.ReadKey();
         }
     }

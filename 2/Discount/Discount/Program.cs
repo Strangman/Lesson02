@@ -10,23 +10,30 @@ namespace Discount
     {
         static void Main(string[] args)
         {
-            int cash = 532;
-            if (cash < 300)
+            int cash = 10;
+            byte percent= 0 ;
+            float discount = 0;
+            if (cash >= 0 & cash < 300)
             {
-                Console.WriteLine("Your discount is 0 %, total to pay " + cash);
+                percent = 0;
+                discount = 0;
             }
             else if (cash >= 300 & 400 > cash)
             {
-                Console.WriteLine("Your discount is 3 %, total to pay " + (cash-(cash*0.03)));
+                percent = 3;
+                discount = 0.03f;
             }
             else if (cash >= 400 & 500 > cash)
             {
-                Console.WriteLine("Your discount is 5 %, total to pay " + (cash - (cash * 0.05)));
+                percent = 5;
+                discount = 0.05f;
             }
             else if (cash >= 500)
             {
-                Console.WriteLine("Your discount is 7 %, total to pay " + (cash - (cash * 0.07)));
+                percent = 7;
+                discount = 0.07f;
             }
+            Console.WriteLine("Your discount is " + percent + "%, total to pay " + (cash - (cash * discount)));
             Console.ReadKey();
         }
     }
