@@ -1,0 +1,7 @@
+D:\Oleh\Code\Ochko\SecondTask\SecondTask\bin\Debug\SecondTask.exe.config
+D:\Oleh\Code\Ochko\SecondTask\SecondTask\bin\Debug\SecondTask.exe
+D:\Oleh\Code\Ochko\SecondTask\SecondTask\bin\Debug\SecondTask.pdb
+D:\Oleh\Code\Ochko\SecondTask\SecondTask\obj\Debug\SecondTask.csproj.CoreCompileInputs.cache
+D:\Oleh\Code\Ochko\SecondTask\SecondTask\obj\Debug\SecondTask.exe
+D:\Oleh\Code\Ochko\SecondTask\SecondTask\obj\Debug\SecondTask.pdb
+D:\Oleh\Code\Ochko\SecondTask\SecondTask\obj\Debug\SecondTask.csprojAssemblyReference.cache
