@@ -5,3 +5,10 @@ D:\Oleh\Code\Ochko\SecondTask\SecondTask\obj\Debug\SecondTask.csproj.CoreCompile
 D:\Oleh\Code\Ochko\SecondTask\SecondTask\obj\Debug\SecondTask.exe
 D:\Oleh\Code\Ochko\SecondTask\SecondTask\obj\Debug\SecondTask.pdb
 D:\Oleh\Code\Ochko\SecondTask\SecondTask\obj\Debug\SecondTask.csprojAssemblyReference.cache
+C:\Games\Programming\Bush\Lesson03\Lesson02\3\SecondTask\SecondTask\bin\Debug\SecondTask.exe.config
+C:\Games\Programming\Bush\Lesson03\Lesson02\3\SecondTask\SecondTask\bin\Debug\SecondTask.exe
+C:\Games\Programming\Bush\Lesson03\Lesson02\3\SecondTask\SecondTask\bin\Debug\SecondTask.pdb
+C:\Games\Programming\Bush\Lesson03\Lesson02\3\SecondTask\SecondTask\obj\Debug\SecondTask.csprojAssemblyReference.cache
+C:\Games\Programming\Bush\Lesson03\Lesson02\3\SecondTask\SecondTask\obj\Debug\SecondTask.csproj.CoreCompileInputs.cache
+C:\Games\Programming\Bush\Lesson03\Lesson02\3\SecondTask\SecondTask\obj\Debug\SecondTask.exe
+C:\Games\Programming\Bush\Lesson03\Lesson02\3\SecondTask\SecondTask\obj\Debug\SecondTask.pdb

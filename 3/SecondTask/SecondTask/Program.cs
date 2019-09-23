@@ -13,7 +13,7 @@ namespace SecondTask
             int i = 1;
             Random ran = new Random();
             int b = ran.Next(0, 101);
-            Console.WriteLine(b);
+            //Console.WriteLine(b);
             for (int a = 0; a <= 5; a++)
             {
                 if (a == 5)
