@@ -1,0 +1,7 @@
+C:\Games\Programming\Bush\Lesson04\try1\FirstTast\FirstTast\bin\Debug\FirstTast.exe.config
+C:\Games\Programming\Bush\Lesson04\try1\FirstTast\FirstTast\bin\Debug\FirstTast.exe
+C:\Games\Programming\Bush\Lesson04\try1\FirstTast\FirstTast\bin\Debug\FirstTast.pdb
+C:\Games\Programming\Bush\Lesson04\try1\FirstTast\FirstTast\obj\Debug\FirstTast.csprojAssemblyReference.cache
+C:\Games\Programming\Bush\Lesson04\try1\FirstTast\FirstTast\obj\Debug\FirstTast.csproj.CoreCompileInputs.cache
+C:\Games\Programming\Bush\Lesson04\try1\FirstTast\FirstTast\obj\Debug\FirstTast.exe
+C:\Games\Programming\Bush\Lesson04\try1\FirstTast\FirstTast\obj\Debug\FirstTast.pdb
