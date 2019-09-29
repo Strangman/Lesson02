@@ -1,0 +1,7 @@
+C:\Games\Programming\Bush\Homework05\Names\Names\bin\Debug\Names.exe.config
+C:\Games\Programming\Bush\Homework05\Names\Names\bin\Debug\Names.exe
+C:\Games\Programming\Bush\Homework05\Names\Names\bin\Debug\Names.pdb
+C:\Games\Programming\Bush\Homework05\Names\Names\obj\Debug\Names.csprojAssemblyReference.cache
+C:\Games\Programming\Bush\Homework05\Names\Names\obj\Debug\Names.csproj.CoreCompileInputs.cache
+C:\Games\Programming\Bush\Homework05\Names\Names\obj\Debug\Names.exe
+C:\Games\Programming\Bush\Homework05\Names\Names\obj\Debug\Names.pdb

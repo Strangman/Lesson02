@@ -1,0 +1,6 @@
+C:\Games\Programming\Bush\Homework05\Name_massiv\Name_massiv\bin\Debug\Name_massiv.exe.config
+C:\Games\Programming\Bush\Homework05\Name_massiv\Name_massiv\bin\Debug\Name_massiv.exe
+C:\Games\Programming\Bush\Homework05\Name_massiv\Name_massiv\bin\Debug\Name_massiv.pdb
+C:\Games\Programming\Bush\Homework05\Name_massiv\Name_massiv\obj\Debug\Name_massiv.csproj.CoreCompileInputs.cache
+C:\Games\Programming\Bush\Homework05\Name_massiv\Name_massiv\obj\Debug\Name_massiv.exe
+C:\Games\Programming\Bush\Homework05\Name_massiv\Name_massiv\obj\Debug\Name_massiv.pdb
