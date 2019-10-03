@@ -9,11 +9,17 @@ namespace Homework06
     class Student
     {
         Random rnd = new Random();
-        public int tail;
-        public bool drunk;
-        public int iq;
+        int tail;
+        bool drunk;
+        int iq;
         string name = "Oleh";
         string faculty = "Turism";
+        public void chage(int a, int b, bool c)
+        {
+            tail = a;
+            iq = b;
+            drunk = c;
+        }
         public void pass()
         {
             if(drunk && iq<70 || drunk && tail>3 || iq<70 && tail>3)
@@ -34,9 +40,7 @@ namespace Homework06
         {
             Student student = new Student();
             Random rnd = new Random();
-            student.tail = rnd.Next(0, 12);
-            student.iq = rnd.Next(150);
-            student.drunk = Convert.ToBoolean(rnd.Next(0, 2));
+            student.chage(rnd.Next(0, 12), rnd.Next(150), Convert.ToBoolean(rnd.Next(0, 2)));   
             student.pass();
             student.getInfo();
             Console.ReadKey();
